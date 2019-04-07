@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MainWindow.qml</file>
+        <file>styles/UiKit.qml</file>
+        <file>fonts/Fonts.qml</file>
+        <file>fonts/Helvetica-Bold.otf</file>
+        <file>fonts/HelveticaNeueRoman.otf</file>
+        <file>fonts/Roboto-Regular.ttf</file>
+        <file>AppPage.qml</file>
+        <file>pages/PageContainer.qml</file>
+        <file>support/Support.qml</file>
+    </qresource>
+</RCC>
