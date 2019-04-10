@@ -9,5 +9,16 @@
         <file>AppPage.qml</file>
         <file>pages/PageContainer.qml</file>
         <file>support/Support.qml</file>
+        <file>items/ParamSlider.qml</file>
+        <file>items/CustomVerticalScale.qml</file>
+        <file>items/CustomSlider.qml</file>
+        <file>pages/TestPage.qml</file>
+        <file>items/CustomLegend.qml</file>
+        <file>pages/PulsePage.qml</file>
+        <file>pages/TriggerPage.qml</file>
+        <file>pages/HoldPage.qml</file>
+        <file>items/Pin.qml</file>
+        <file>items/Pins.qml</file>
+        <file>items/CustomSwitch.qml</file>
     </qresource>
 </RCC>
